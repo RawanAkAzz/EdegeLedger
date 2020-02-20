@@ -109,3 +109,18 @@ p{
    left:0;
    background-color: rgba(0,0,0,0.4);
  }
+ /*Section What We Do*/
+  #what .items{
+    display: flex;
+
+  }
+  #what .items .item{
+     flex:1;
+     text-align: center;
+     padding-top: 1rem;
+  }
+  #what .items .item i{
+   background:#93cb52;
+   border-radius: 50%;
+   padding:1rem ;
+  }
