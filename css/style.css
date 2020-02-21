@@ -190,6 +190,9 @@ p{
  #contact .form-group label{
     display: block;
  }
+ #contact .map {
+   flex: 2;
+ }
 #contact .form-group input , textarea{
   width:100%;
   padding: 0.5rem;
