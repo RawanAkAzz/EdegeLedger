@@ -67,6 +67,7 @@ p{
 .btn{
   display: inline-block;
   color:#fff;
+  text-decoration: none;
   background: #93cb52;
   padding: 0.5rem 2rem;
   border: none;
@@ -176,6 +177,7 @@ p{
     display: block;
     margin-top: auto;
     width: 60%;
+    margin-bottom: 2rem;
   }
   /*Section Contact*/
     #contact{
